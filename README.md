@@ -1,4 +1,4 @@
-# webpack-rxjs-typescript-playground
+# typescript-rxjs-playground
 Lightweight environment to play around with typescript &amp; rxjs
 
 
